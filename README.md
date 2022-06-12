@@ -1,8 +1,6 @@
 # About
 
-This is a video search application created in ReactJs that uses youtube API V3 to complete a video search for users. Customers can search for their favourite videos from their loved content creators on youtube by clicking and typing in their favorite music-videos, vlogs, etc. It was designed using React hooks to filter favorite video.
-
-![React Video Search Application](./src/images/video-search.png) 
+This is a video search application created in ReactJs that uses youtube API V3 to complete a video search for users. Customers can search for their favourite videos from their loved content creators on youtube by clicking and typing in their favorite music-videos, vlogs, etc. It was designed using React hooks to filter favorite video. 
 
 # Technologies used
 - React.js
